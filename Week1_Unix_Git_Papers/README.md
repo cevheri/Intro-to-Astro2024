@@ -1,6 +1,5 @@
 ## First Meeting: July 1st, 2024: 5:00pm Pacific Daylight Time (UT-7).
 
-
 ## Agenda:
 * Introductions
 * Motivation
